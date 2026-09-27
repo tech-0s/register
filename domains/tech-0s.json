@@ -1,0 +1,11 @@
+{
+  "description": "tech-0s - Sistema operativo personal basado en Linux Mint Debian Edition",
+  "repo": "https://github.com/tech-0s/tech-0s-web",
+  "owner": {
+    "username": "tech-0s",
+    "email": "jose@tech-os.local"
+  },
+  "record": {
+    "CNAME": "tech-0s.github.io"
+  }
+}
